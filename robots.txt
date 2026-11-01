@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://buzzsawbrigade.github.io/sitemap.xml
