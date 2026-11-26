@@ -12,7 +12,7 @@ import pathlib, html
 ROOT = pathlib.Path(__file__).parent
 SITE_URL = "https://buzzsawbrigade.github.io/"
 EMAIL = "pcfixer@helpdeskmastercomputersupport.org"
-UPDATED = "November 1, 2026"
+UPDATED = "November 26, 2026"
 
 NAV = [
     ("home", "index.html", "Home"),

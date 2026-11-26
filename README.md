@@ -1,17 +1,17 @@
 # Buzzsaw Brigade website
 
-The public site for the Buzzsaw Brigade Android game. Google Play needs these pages.
+The public site for the Buzzsaw Brigade game (Android and Windows). Google Play and the Microsoft Store need these pages.
 
 Live at https://buzzsawbrigade.github.io/
 
 | Page | File | Use it for |
 | --- | --- | --- |
-| Home | index.html | Play Console "Website" field |
-| Privacy Policy | privacy.html | Play Console privacy policy URL, and the PRIVACY POLICY button in the game |
+| Home | index.html | Play Console "Website" field, Partner Center "Website" field |
+| Privacy Policy | privacy.html | Play Console and Partner Center privacy policy URL, and the PRIVACY POLICY button in the game |
 | Delete your data | delete-data.html | Data safety form, data deletion URL |
-| Support | support.html | Support link, SUPPORT AND CONTACT button in the game |
+| Support | support.html | Support link (Play Console and Partner Center "Support contact info"), SUPPORT AND CONTACT button in the game |
 | Summon odds | odds.html | Loot box odds disclosure |
-| Terms of Use | terms.html | TERMS OF USE button in the game |
+| Terms of Use | terms.html | TERMS OF USE button in the game. Holds the online code of conduct and the player report steps. |
 
 ## Editing
 
